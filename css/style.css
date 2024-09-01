@@ -524,9 +524,10 @@ i.bx.bx-pen {
     padding-block-start: 50px;
 }
 
-.my-skills .d-flex{
+.my-skills .d-flex {
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 50px;
 }
 
 .my-skills .d-flex .box{
@@ -639,9 +640,9 @@ i.bx.bx-pen {
 
 /*********portfolio************************/
 
-.portfolio{
-   background: linear-gradient(142deg, rgba(56, 12, 84, 1) 0%, rgba(30, 2, 53, 1) 30%);
-   padding-block-start:80px;
+.portfolio {
+    background: linear-gradient(154deg, rgba(56, 12, 84, 1) 0%, rgba(30, 2, 53, 1) 30%);
+    padding-block-start: 80px;
 }
 
 .portfolio .top-block .d-flex{
